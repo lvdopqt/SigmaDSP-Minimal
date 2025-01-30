@@ -1,4 +1,4 @@
-from sigma_dsp.adau.adau1401.register import Register, Element
+from .adau.adau1401.register import Register, Element
 
 
 
